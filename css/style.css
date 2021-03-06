@@ -1,4 +1,7 @@
 .jumbotron {
-  padding-top: 2rem;
-  background-color: #eee;
+  background-color: rgb(190, 190, 190);
+}
+
+section {
+  padding-top: 5rem;
 }
