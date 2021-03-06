@@ -46,6 +46,9 @@
       <img src="img/ekafajhariadwar.jpg" alt="Eka Fajhari Adwar" width="200" class="rounded-circle img-thumbnail">
       <h1 class="display-4">Eka Fajhari Adwar</h1>
       <p class="lead">Physicist | Fullstack Programmer</p>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+        <path fill="#ffffff" fill-opacity="1" d="M0,64L40,85.3C80,107,160,149,240,170.7C320,192,400,192,480,170.7C560,149,640,107,720,122.7C800,139,880,213,960,229.3C1040,245,1120,203,1200,208C1280,213,1360,267,1400,293.3L1440,320L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"></path>
+      </svg>
     </section>
     <!-- jumbotron ended -->
 
