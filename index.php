@@ -8,6 +8,9 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
 
+    <!-- My CSS -->
+    <link rel="stylesheet" href="css/style.css">
+
     <title>My Portfolio|Eka Fajhari Adwar</title>
   </head>
   <body>
@@ -37,6 +40,14 @@
       </div>
     </nav>
     <!-- Navbar Ended -->
+
+    <!-- jumbotron started -->
+    <section class="jumbotron text-center">
+      <img src="img/ekafajhariadwar.jpg" alt="Eka Fajhari Adwar" width="200" class="rounded-circle img-thumbnail">
+      <h1 class="display-4">Eka Fajhari Adwar</h1>
+      <p class="lead">Physicist | Fullstack Programmer</p>
+    </section>
+    <!-- jumbotron ended -->
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
   </body>
