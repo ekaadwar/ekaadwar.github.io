@@ -9,3 +9,11 @@ section {
 .sectionAbu {
   background-color: #ccc;
 }
+
+.abilities p {
+  font-size: 14px;
+}
+
+.abilities .card {
+  border: none;
+}
