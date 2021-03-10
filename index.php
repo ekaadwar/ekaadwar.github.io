@@ -70,7 +70,7 @@
           </div>
           <div class="col-sm-4">
           <p class="fst-italic"> Hi, introduce me <span class = "fw-bolder"> Eka Fajhari Adwar </span>. You can greet me with Eka. I am a graduate of Physics, Faculty of Mathematics and Natural Sciences, Andalas University. I love the world of instrumentation and programming. One of my favorite programming is <span class = "fw-bolder"> Website Programming </span>.</p>
-          <p> I come from Pasaman district, West Sumatra - Indonesia. I was born in Lubuk Sikaping on September 27, 1996.</p>
+          <p class="fst-italic"> I come from Pasaman district, West Sumatra - Indonesia. I was born in Lubuk Sikaping on September 27, 1996.</p>
           </div>
         </div>
       </div>
